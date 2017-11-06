@@ -6,3 +6,5 @@ Wildlandfire Assesment System NFDRS Archive http://www.wfas.net/index.php/search
 QGIS Routing https://anitagraser.com/2016/07/23/osm-turn-restriction-qa-with-qgis/
 
 VIIRS/MODIS Google Earth https://fsapps.nwcg.gov/afm/googleearth.php?sensor=viirs&extent=conus
+
+GitHub Image Hosting https://www.labnol.org/internet/free-file-hosting-github/29092/
